@@ -1,4 +1,4 @@
-# Alibaba E-commerce Analytics Respository
+# Alibaba E-commerce Analytics Repository
 
 ## Project Description
 Data warehouse and analytics dashboard for Alibaba e-commerce transaction data.
